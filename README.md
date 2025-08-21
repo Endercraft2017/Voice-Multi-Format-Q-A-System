@@ -16,36 +16,36 @@ It combines **FastAPI (Python backend)**, **HTML/CSS/JavaScript frontend**, **Fa
 
   - Upload multiple documents (`PDF`, `TXT`, `DOCX`, etc.)
   - Rename and delete uploaded documents
-    ![Uploaded Documents](screenshots/uploaded_documents.png)
-    ![Rename & Delete Documents](screenshots/rename_delete_documents.png)
+    ![Uploaded Documents](Sample_Images/uploaded_documents.png)
+    ![Rename & Delete Documents](Sample_Images/rename_delete_documents.png)
 
 - 🔍 **Ask Questions**
 
   - Type in questions directly
   - Context-aware Q\&A against selected/focused documents
-    ![Ask Question (Typing)](screenshots/ask_question_typing.png)
-    ![Focused Document Question](screenshots/focused_document_question.png)
+    ![Ask Question (Typing)](Sample_Images/ask_question_typing.png)
+    ![Focused Document Question](Sample_Images/focused_document_question.png)
 
 - 🖼 **Drag & Drop**
 
   - Drag and drop files for instant upload
   - Drag and drop **audio files** (MP3 supported) for transcription + Q\&A
-    ![Drag & Drop (Documents)](screenshots/drag_and_drop.png)
-    ![Drag & Drop (Audio)](screenshots/drag_and_drop_audio.png)
+    ![Drag & Drop (Documents)](Sample_Images/drag_and_drop.png)
+    ![Drag & Drop (Audio)](Sample_Images/drag_and_drop_audio.png)
 
 - 🎙 **Speech to Text**
 
   - Upload `.mp3` audio files for transcription
   - Uses **Faster-Whisper** for fast and accurate transcriptions
   - **Live recording transcription** is a planned future update (requires more compute)
-    ![Recorded Audio Transcription](screenshots/recorded_audio_transcription.png)
+    ![Recorded Audio Transcription](Sample_Images/recorded_audio_transcription.png)
 
 - 💬 **Conversation Memory**
 
   - Message history preserved for context
   - Search through past Q\&A conversations
-    ![Message History](screenshots/message_history.png)
-    ![Message Search](screenshots/message_search.png)
+    ![Message History](Sample_Images/message_history.png)
+    ![Message Search](Sample_Images/message_search.png)
 
 ---
 
