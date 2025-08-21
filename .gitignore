@@ -1,0 +1,7 @@
+# Optional: Ignore virtual environments
+.venv/
+env/
+
+data/
+
+recordings/
