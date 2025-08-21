@@ -1,7 +1,3 @@
-Perfect 👍 Thanks for clarifying. Since you want the screenshots **embedded inline** and the README to cover **all the functionalities, workflow, and skills used**, here’s a polished `README.md` draft for your project:
-
----
-
 # 🧠 AI-Powered RAG Web App
 
 This project is a **full-stack AI-powered Retrieval-Augmented Generation (RAG) application** that enables users to upload documents or audio files, ask natural language questions, and receive AI-generated answers based on the content.
@@ -148,5 +144,3 @@ It combines **FastAPI (Python backend)**, **HTML/CSS/JavaScript frontend**, **Fa
 - Deployment-ready Docker setup
 
 ---
-
-Would you like me to also include a **“Getting Started” section** (setup, installation, how to run locally), or do you want the README to remain more **showcase-style** since this is mainly for presentation?
