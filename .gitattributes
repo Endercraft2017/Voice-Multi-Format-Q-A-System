@@ -18,3 +18,5 @@ Frontend/Resources/Icon/*.svg text eol=lf
 *.css text eol=lf
 *.js text eol=lf
 *.svg text eol=lf
+
+*.svg binary
